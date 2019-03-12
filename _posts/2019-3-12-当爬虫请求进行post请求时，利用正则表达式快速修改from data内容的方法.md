@@ -2,7 +2,7 @@
 layout:     post
 title:      当爬虫请求进行post请求时，利用正则表达式快速修改from data内容的方法
 subtitle:   本文利用atom软件进行修改，其他软件亦可
-date:       2018-1-19
+date:       2019-3-12
 author:     WHY
 header-img: img/post-bg-universe.jpg
 catalog: true
